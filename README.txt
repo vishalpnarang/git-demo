@@ -6,4 +6,4 @@ this is just demo repo
 
 this is after initial command
 
-modified again and again
+modified again and again for git
